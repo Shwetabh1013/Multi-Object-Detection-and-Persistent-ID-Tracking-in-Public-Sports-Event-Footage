@@ -1,0 +1,5 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+yt-dlp
+lapx>=0.5.5
+gradio>=4.0.0
